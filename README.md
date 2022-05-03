@@ -10,7 +10,7 @@
 
 Example
 
-```text:source
+```fundamental:source
 スクリプトの保存：control(⌃) + S、command(⌘) + S
 文字カーソルを指定行に移動：control(⌃) + G
 改行：control(⌃) + O
@@ -25,7 +25,7 @@ Example
 選択中の文字列を/*  */形式でコメントアウト：option(⌥) + Shift(⇧) + A
 ```
 
-```text:converted
+```fundamental:converted
 <figure class="wp-block-table"><table><thead><tr><th>操作の内容</th><th>キー組み合わせ</th></tr></thead><tbody><tr><td>スクリプトの保存</td><td>control(⌃) + S、command(⌘) + S</td></tr>
 <tr><td>文字カーソルを指定行に移動</td><td>control(⌃) + G</td></tr>
 <tr><td>改行</td><td>control(⌃) + O</td></tr>
