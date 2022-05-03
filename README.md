@@ -8,7 +8,9 @@
 
 # convert_to_wp_table
 
-Example
+## Example
+
+source
 
 ```fundamental:source
 スクリプトの保存：control(⌃) + S、command(⌘) + S
@@ -24,6 +26,8 @@ Example
 単語ごとに左方に移動：option(⌥) + ←、option(⌥) + control⌃) + B
 選択中の文字列を/*  */形式でコメントアウト：option(⌥) + Shift(⇧) + A
 ```
+
+converted
 
 ```fundamental:converted
 <figure class="wp-block-table"><table><thead><tr><th>操作の内容</th><th>キー組み合わせ</th></tr></thead><tbody><tr><td>スクリプトの保存</td><td>control(⌃) + S、command(⌘) + S</td></tr>
